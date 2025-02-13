@@ -1,2 +1,2 @@
 # Badass_Drone
-A drone the is Badass
+A drone that is Badass
